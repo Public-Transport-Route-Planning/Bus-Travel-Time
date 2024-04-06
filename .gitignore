@@ -1,13 +1,4 @@
-processed-time.csv
-Travel_time(bus).csv
-data/csv/busstop.csv
-data/csv/missing_rows.csv
-data/csv/relationship_routes.csv
-data/csv/route_data.csv
-data/csv/route_polyline.csv
-data/csv/route_station.csv
-data/csv/sid_route.csv
-data/csv/Travel_time(newbus).csv
+data/csv/process-time/process_2024-02-05.csv
 data/csv/GPS_log/2023-10-03.csv
 data/csv/GPS_log/2023-10-04.csv
 data/csv/GPS_log/2023-10-05.csv
@@ -170,7 +161,6 @@ data/csv/process-time/process_2024-02-01.csv
 data/csv/process-time/process_2024-02-02.csv
 data/csv/process-time/process_2024-02-03.csv
 data/csv/process-time/process_2024-02-04.csv
-data/csv/process-time/process_2024-02-05.csv
 data/csv/test_data_monday/2024-02-19.csv
 data/csv/test_data_monday/2024-02-20.csv
 model_LSTM_drop/fingerprint.pb
